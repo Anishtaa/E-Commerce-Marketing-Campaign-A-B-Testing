@@ -1,4 +1,4 @@
-# Movate E-commerce Analysis Project
+# E-commerce MArketing Campaign Analysis Project
 
 ## Project Overview
 This project analyzes e-commerce campaign data and provides insights through interactive dashboards. It focuses on tracking marketing campaign performance, site activity, and overall transactional trends. Two dashboards are included: one developed in **Python** and another that uses **SQL** queries.
